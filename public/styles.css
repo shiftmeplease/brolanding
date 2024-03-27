@@ -159,6 +159,9 @@ button:hover {
   img{
     height: 400px;
   }
+  .addyText {
+    text-decoration: underline;
+  }
 }
 
 @media only screen and (max-width: 430px) {
@@ -183,8 +186,3 @@ button:hover {
   }
 }
 
-@media (hover: none) {
-  .addyText a {
-    text-decoration: underline;
-  }
-}

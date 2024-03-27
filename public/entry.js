@@ -1,9 +1,8 @@
-const css = require("./styles.css");
-const js = require("./main.js");
-
-const cook = require("./images/pepecook.png");
-const sol = require("./images/sol.png");
-const html = require('./index.html')
+import css from "./styles.css";
+import js from "./main.js";
+import cook from "./images/pepecook.png";
+import sol from "./images/sol.png";
+import html from "./index.html";
+import pepeog from "./images/pepeog.png";
+import ico from "./images/icon.png";
 // import sol from './images/sol.png'
-const pepeog = require('./images/pepeog.png')
-const ico = require('./images/icon.png')
